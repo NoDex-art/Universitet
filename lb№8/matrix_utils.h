@@ -12,4 +12,4 @@ bool get_matrix(std::string filename, double in_mx[MAX_M][MAX_N], int &in_m, int
 // Обробка матриці для Matrix29: підрахунок елементів, менших за середнє арифметичне рядка
 void process_matrix29(std::string filename, const double in_mx[MAX_M][MAX_N], const int m, const int n);
 
-#endif // MATRIX_UTILS_H
+#endif 
