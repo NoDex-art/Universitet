@@ -1,4 +1,3 @@
-// array_utils.cpp
 #include "array_utils.h"
 #include <iostream>
 #include <fstream>
