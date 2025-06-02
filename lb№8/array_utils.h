@@ -14,4 +14,4 @@ bool put_array(std::string filename, const int out_mas[], const int n);
 // Пузырькова сортування по зростанню
 void bubble_sort(int mas[], int n);
 
-#endif // ARRAY_UTILS_H
+#endif 
