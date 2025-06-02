@@ -1,4 +1,3 @@
-// matrix_utils.cpp
 #include "matrix_utils.h"
 #include <iostream>
 #include <fstream>
