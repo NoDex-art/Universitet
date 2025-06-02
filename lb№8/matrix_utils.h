@@ -1,4 +1,3 @@
-// matrix_utils.h
 #ifndef MATRIX_UTILS_H
 #define MATRIX_UTILS_H
 
